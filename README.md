@@ -1,2 +1,4 @@
 # IBM-Stock-Analysis
-created for the stock analysis project dashboard
+
+Stock analysis project using Python and Plotly to visualize Tesla and Gamestop stock data.  
+Created for the IBM Data Science stock dashboard project.
